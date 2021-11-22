@@ -1,0 +1,17 @@
+{
+    "user_1": {
+        "username": "username aqui", 
+        "xcsrftoken": "xcsrftoken aqui",
+        "sessionid": "session id aqui"
+    },
+    "user_2": {
+        "username": "username aqui", 
+        "xcsrftoken": "xcsrftoken aqui",
+        "sessionid": "session id aqui"
+    },
+    "user_3": {
+        "username": "username aqui", 
+        "xcsrftoken": "xcsrftoken aqui",
+        "sessionid": "session id aqui"
+    }
+}
